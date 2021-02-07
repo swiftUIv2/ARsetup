@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 @main
 struct ARFApp: App {
     var body: some Scene {
